@@ -1,0 +1,3 @@
+[submodule "crossmodules/connections"]
+	path = crossmodules/connections
+	url = https://github.com/mitestacount/connections.git
